@@ -8,9 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Birthday: 1998.5.27
 - Birthplace: Kyoto
 - Email: 22amj03[at]ms.dendai.ac.jp
+
 ### Education
 - 2022.4 -: M.S in Tokyo Denki University
 - 2018.4 - 2022.3: B.S in Tokyo Denki University
+
 ### Like
 - Coffee
 - Sushi, Gyoza
