@@ -1,12 +1,35 @@
-## Welcome to GitHub Pages
+## Mizuki Uebo
 
-You can use the [editor on GitHub](https://github.com/MizukiUebo/MizukiUebo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/MizukiUebo/MizukiUebo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About Me
+- Name: Mizuki Uebo
+- Birthday: 1998.5.27
+- Birthplace: Kyoto
+- Email: 22amj03[at]ms.dendai.ac.jp
+
+### Education
+- 2022.4 -: M.S in Tokyo Denki University
+- 2018.4 - 2022.3: B.S in Tokyo Denki University
+
+### Like
+- Coffee
+- Sushi, Gyoza
+
+
+## Research
+- Color Constancy
+- Computer Vision, Patern Recognition
+
+
+### Awards
+### Publications
+
+
+<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -34,4 +57,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
