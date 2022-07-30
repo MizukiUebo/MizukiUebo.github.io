@@ -1,5 +1,3 @@
-## Mizuki Uebo
-
 <!-- You can use the [editor on GitHub](https://github.com/MizukiUebo/MizukiUebo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
@@ -10,11 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Birthday: 1998.5.27
 - Birthplace: Kyoto
 - Email: 22amj03[at]ms.dendai.ac.jp
-
 ### Education
 - 2022.4 -: M.S in Tokyo Denki University
 - 2018.4 - 2022.3: B.S in Tokyo Denki University
-
 ### Like
 - Coffee
 - Sushi, Gyoza
@@ -25,8 +21,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Computer Vision, Patern Recognition
 
 
-### Awards
-### Publications
+## Awards
+## Publications
 
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
